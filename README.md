@@ -8,7 +8,7 @@ https://play.google.com/store/apps/details?id=com.sandeep.studybear
 
 ## Screenshots:
 
-![Uploading Untitled design (3).png…]()
+<img width="768" alt="Untitled design (4)" src="https://user-images.githubusercontent.com/90695071/187695349-1898f4b7-6a8a-4211-a4de-2e75c8a06531.png">
 
 ## Features:
 
