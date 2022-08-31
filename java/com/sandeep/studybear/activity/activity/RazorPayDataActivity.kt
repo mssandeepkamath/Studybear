@@ -140,7 +140,7 @@ class RazorPayDataActivity : AppCompatActivity() {
 //    private fun startPayment(email: String, phoneNumber: String) {
 //
 //        val checkout = Checkout()
-//        checkout.setKeyID("rzp_live_9JdTljlGTGUHDM")
+//        checkout.setKeyID("your_own")
 //        checkout.setImage(R.drawable.company_logo)
 //        val activity: Activity = this
 //        try {
