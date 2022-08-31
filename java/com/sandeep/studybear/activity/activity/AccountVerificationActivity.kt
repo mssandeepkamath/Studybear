@@ -89,7 +89,7 @@ class AccountVerificationActivity : AppCompatActivity(), AccessControlInterface 
 
         val current_user = auth.currentUser
         val email_id = current_user?.email
-//        println("Email is : ${email_id.toString().trim().toLowerCase() == "teststudybear@gmail.com"}")
+
         Handler().postDelayed(
             {
                 if(current_user==null)
@@ -100,34 +100,12 @@ class AccountVerificationActivity : AppCompatActivity(), AccessControlInterface 
                     intentProvider(this@AccountVerificationActivity,
                         LoginActivity::class.java)
                 }
-//                else if(email_id.toString().trim().toLowerCase() == "teststudybear@gmail.com")
-//                {
-//                    message(this@AccountVerificationActivity,"Welcome to Studybear")
-//                    intentProvider(this@AccountVerificationActivity,
-//                        MainActivity::class.java)
-//                }
+
                 else
                 {
                     accessCheck(this,"Welcome to Studybear",database,current_user)
                 }
-//                else if(email_id!!.contains("@rvce.edu.in",true))
-//                {
-//                    accessCheck(this,"Welcome to Studybear",database,current_user)
-//                }
-//                else
-//                {
-//                    message(this@AccountVerificationActivity,"Please use RVCE email id")
-//                    googleSignInClient.signOut()
-//                    current_user.delete()
-//                    Handler().postDelayed(
-//                        Runnable {
-//
-//                            intentProvider(this@AccountVerificationActivity,
-//                              LoginActivity::class.java)
-//
-//                        },1000
-//                    )
-//                }
+                
             }, 4000
         )
 
