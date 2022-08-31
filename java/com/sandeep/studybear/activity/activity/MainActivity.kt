@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var googleSignInClient: GoogleSignInClient
     var flagBottom: Boolean = false
     var timerFlag = false
-    private val ONESIGNAL_APP_ID = "6960997e-7277-4ee7-b740-ea0b32f17708"
+    private val ONESIGNAL_APP_ID = "your_own"
 
 
 
