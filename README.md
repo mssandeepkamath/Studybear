@@ -3,7 +3,7 @@
 ### Academic Productivity Platform for IT related Engineering Students.
 
 <p align="center">
-<img width="100" src="https://i.postimg.cc/tCmSznBP/Study-Bear.png" align="center" alt="Untitled-designbear" allign="center" border="0">
+<img width="200" src="https://i.postimg.cc/tCmSznBP/Study-Bear.png" align="center" alt="Untitled-designbear"  border="0">
 </p>
 
 ## Play store link:
