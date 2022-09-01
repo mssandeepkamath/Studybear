@@ -2,7 +2,7 @@
 
 ### Academic Productivity Platform for IT related Engineering Students.
 
-<img width="500" alt="Untitled design (5)" src="[https://user-images.githubusercontent.com/90695071/187938957-b9f9bec9-1638-4339-9879-dd05a2f091ef.png]>
+<img width="500" alt="Untitled design (5)" src="https://i.postimg.cc/T1wsDWpW/Untitled-designbear.png">
 
 ## Play store link:
 
