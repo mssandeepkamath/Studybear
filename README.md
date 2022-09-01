@@ -2,6 +2,8 @@
 
 ### Academic Productivity Platform for IT related Engineering Students.
 
+![Untitled designbear](https://user-images.githubusercontent.com/90695071/187976321-f22fe677-6c54-439e-befe-e2cca44f9a1d.png)
+
 ## Play store link:
 
 https://play.google.com/store/apps/details?id=com.sandeep.studybear
